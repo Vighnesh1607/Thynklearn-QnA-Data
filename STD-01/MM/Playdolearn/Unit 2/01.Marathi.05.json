@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "माहिती व संप्रेषण तंत्रज्ञान म्हणजे काय?",
       "answer": "माहिती मिळवण्यासाठी आणि पाठवण्यासाठी वापरले जाणारे तंत्रज्ञान म्हणजे माहिती व संप्रेषण तंत्रज्ञान."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "माहिती मिळवून देणारी दोन साधने लिहा.",
       "answer": "वृत्तपत्र आणि दूरदर्शन ही माहिती मिळवून देणारी साधने आहेत."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "रेडिओचा उपयोग काय आहे?",
       "answer": "रेडिओचा उपयोग बातम्या आणि कार्यक्रम ऐकण्यासाठी होतो."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "संगणक कशासाठी वापरतात?",
       "answer": "संगणक माहिती मिळवण्यासाठी आणि काम करण्यासाठी वापरतात."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "मोबाईल फोन कशासाठी उपयुक्त आहे?",
       "answer": "मोबाईल फोन संवाद साधण्यासाठी उपयुक्त आहे."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "वाहतूक सिग्नल कशासाठी असतात?",
       "answer": "वाहतूक सुरक्षेसाठी वाहतूक सिग्नल असतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "लाल सिग्नल काय सांगतो?",
       "answer": "लाल सिग्नल थांबण्याचा संकेत देतो."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "हिरवा सिग्नल काय दर्शवतो?",
       "answer": "हिरवा सिग्नल चालू राहण्याचा संकेत देतो."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "पिवळा सिग्नल काय सांगतो?",
       "answer": "पिवळा सिग्नल सावध राहण्याचा संकेत देतो."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "वाहतूक सुरक्षा का महत्त्वाची आहे?",
       "answer": "वाहतूक सुरक्षेमुळे अपघात टाळता येतात."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "QR कोडचा उपयोग काय आहे?",
       "answer": "QR कोडचा उपयोग माहिती मिळवण्यासाठी होतो."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "माहिती व संप्रेषण तंत्रज्ञानाचा उपयोग कुठे होतो?",
       "answer": "या तंत्रज्ञानाचा उपयोग दैनंदिन जीवनात होतो."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "तंत्रज्ञानामुळे आपले जीवन कसे सोपे झाले?",
       "answer": "तंत्रज्ञानामुळे माहिती लवकर मिळते आणि काम सोपे होते."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हा अध्याय कोणत्या विषयात आहे?",
       "answer": "हा अध्याय Lets Play Do Learn या विषयात आहे."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "तंत्रज्ञानाचा योग्य वापर का आवश्यक आहे?",
       "answer": "योग्य वापर केल्यास तंत्रज्ञान सुरक्षित आणि उपयुक्त ठरते."

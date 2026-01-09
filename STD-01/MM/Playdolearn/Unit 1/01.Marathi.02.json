@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "विविध हालचाली म्हणजे काय?",
       "answer": "शरीर वेगवेगळ्या प्रकारे हलवणे म्हणजे विविध हालचाली."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "सरळ रेषेत चालणे कसे असते?",
       "answer": "सरळ रेषेत पुढे चालणे म्हणजे सरळ चाल."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "वर्तुळात चालताना काय लक्षात ठेवावे?",
       "answer": "वर्तुळात चालताना शरीराचा तोल राखावा."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "टाचेवर चालणे म्हणजे काय?",
       "answer": "टाचांवर चालणे म्हणजे टाचेवर चाल."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "नागमोडी चाल म्हणजे काय?",
       "answer": "वाकड्या रेषेत चालणे म्हणजे नागमोडी चाल."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "पाय समोर नेणे कशासाठी उपयोगी आहे?",
       "answer": "पाय समोर नेल्याने चालण्याचा सराव होतो."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "पाय मागे नेल्याने काय होते?",
       "answer": "शरीर हलकेपणाने हालते."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "पाय उजवीकडे नेणे म्हणजे काय?",
       "answer": "उजव्या बाजूला हालचाल करणे."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "पाय डावीकडे नेणे कशासाठी उपयुक्त आहे?",
       "answer": "शरीराची लवचिकता वाढते."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "हालचाली करताना तोल का महत्त्वाचा आहे?",
       "answer": "तोल ठेवल्याने पडण्याचा धोका कमी होतो."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "विविध हालचाली केल्याने काय फायदा होतो?",
       "answer": "शरीर तंदुरुस्त राहते."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "चित्र पाहून हालचाल का करावी?",
       "answer": "योग्य हालचाल शिकण्यासाठी."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "हालचाली कोणत्या वयात कराव्यात?",
       "answer": "लहानपणापासून हालचाली कराव्यात."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हालचाली करताना कशाची काळजी घ्यावी?",
       "answer": "शरीराचा तोल आणि सुरक्षितता."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "दैनंदिन जीवनात हालचाली का आवश्यक आहेत?",
       "answer": "आरोग्य चांगले ठेवण्यासाठी हालचाली आवश्यक आहेत."

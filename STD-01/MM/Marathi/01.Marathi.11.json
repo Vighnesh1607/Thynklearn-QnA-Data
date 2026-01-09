@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "या धड्याचे नाव काय आहे?",
       "answer": "या धड्याचे नाव मांजराची गंमत आहे."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "पहिल्या चित्रात मांजर काय करत आहे?",
       "answer": "पहिल्या चित्रात मांजर दूध पीत आहे."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "मांजराच्या हातात काय आहे?",
       "answer": "मांजराच्या हातात दूधाची वाटी आहे."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "मांजर कोणाला पाहून पळते?",
       "answer": "मांजर उंदीर पाहून पळते."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "दूध सांडल्यावर काय झाले?",
       "answer": "दूध सांडल्यावर मांजर घाबरून पळाली."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "ही गोष्ट कशावर आधारित आहे?",
       "answer": "ही गोष्ट चित्रांवर आधारित आहे."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "या गोष्टीतील मुख्य पात्र कोण आहे?",
       "answer": "या गोष्टीतील मुख्य पात्र मांजर आहे."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "या धड्यात मुलांना काय सांगायला सांगितले आहे?",
       "answer": "या धड्यात मुलांना चित्र बघून गोष्ट सांगायला सांगितले आहे."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "या धड्यातील गोष्ट कशी आहे?",
       "answer": "या धड्यातील गोष्ट गमतीशीर आहे."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "या धड्यात पुढे काय शिकवले आहे?",
       "answer": "या धड्यात पुढे अक्षर ओळख शिकवली आहे."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "चित्र पाहून गोष्ट सांगणे का महत्त्वाचे आहे?",
       "answer": "चित्र पाहून गोष्ट सांगण्यामुळे निरीक्षण आणि बोलण्याची सवय लागते."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "मांजर कशी दिसते?",
       "answer": "मांजर घाबरलेली दिसते."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "या धड्यात कोणता प्राणी दाखवला आहे?",
       "answer": "या धड्यात मांजर दाखवली आहे."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "या धड्यातून काय शिकायला मिळते?",
       "answer": "या धड्यातून चित्र निरीक्षण आणि गोष्ट सांगणे शिकायला मिळते."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "तुला या गोष्टीत काय गंमत वाटली?",
       "answer": "मला मांजर दूध सांडून पळताना गंमत वाटली."

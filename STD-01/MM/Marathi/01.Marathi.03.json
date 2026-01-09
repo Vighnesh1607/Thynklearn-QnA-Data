@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "चित्रात मुले काय करत आहेत?",
       "answer": "चित्रात मुले वेगवेगळे खेळ खेळत आहेत."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "मुले कुठे खेळत आहेत?",
       "answer": "मुले मैदानात आणि घरात खेळत आहेत."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "पहिल्या चित्रात कोणता खेळ आहे?",
       "answer": "पहिल्या चित्रात मुले पकडापकडी खेळत आहेत."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "दुसऱ्या चित्रात मुले काय वापरत आहेत?",
       "answer": "दुसऱ्या चित्रात मुले चेंडू वापरत आहेत."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "कॅरम खेळ कसा खेळला जातो?",
       "answer": "कॅरम खेळ पटावर गोट्या मारून खेळला जातो."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "लुडो खेळायला काय लागते?",
       "answer": "लुडो खेळायला पट आणि सोंगट्या लागतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "खेळ खेळल्याने शरीराला काय फायदा होतो?",
       "answer": "खेळ खेळल्याने शरीर निरोगी राहते."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "खेळताना मुले कशी दिसतात?",
       "answer": "खेळताना मुले आनंदी दिसतात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "खेळामुळे मैत्री कशी वाढते?",
       "answer": "एकत्र खेळल्याने मुले एकमेकांशी मैत्री करतात."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "घरगुती खेळाचे एक उदाहरण द्या.",
       "answer": "लुडो हा एक घरगुती खेळ आहे."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "मैदानी खेळाचे एक उदाहरण द्या.",
       "answer": "पकडापकडी हा एक मैदानी खेळ आहे."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "खेळ खेळताना शिस्त का आवश्यक आहे?",
       "answer": "शिस्त असल्याने खेळ नीट आणि सुरक्षित खेळता येतो."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "हा धडा कशावर आधारित आहे?",
       "answer": "हा धडा चित्रांवर आधारित आहे."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "या धड्यातून काय शिकायला मिळते?",
       "answer": "या धड्यातून खेळाचे महत्त्व शिकायला मिळते."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "तुला कोणता खेळ आवडतो?",
       "answer": "मला पकडापकडी खेळ आवडतो."

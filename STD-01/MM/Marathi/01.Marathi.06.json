@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "या धड्यात काय तयारी केली जाते?",
       "answer": "या धड्यात वाचनपूर्व आणि लेखनपूर्व तयारी केली जाते."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "चित्रे पाहून काय सांगायचे असते?",
       "answer": "चित्रे पाहून त्यांची नावे सांगायची असतात."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "सारख्या शब्दांचे काय करायचे असते?",
       "answer": "सारख्या शब्दांच्या जोड्या जुळवायच्या असतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "रेषांवरून काय करायला शिकवले आहे?",
       "answer": "रेषांवरून गिरवायला शिकवले आहे."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "‘क’ हा काय आहे?",
       "answer": "‘क’ हे एक अक्षर आहे."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "‘मांजर’ या शब्दाची सुरुवात कोणत्या अक्षराने होते?",
       "answer": "‘मांजर’ या शब्दाची सुरुवात ‘म’ अक्षराने होते."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "‘आई’ या शब्दात कोणता आवाज आहे?",
       "answer": "‘आई’ या शब्दात ‘आ’ आवाज आहे."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "‘लसूण’ या शब्दात कोणते अक्षर आहे?",
       "answer": "‘लसूण’ या शब्दात ‘ल’ अक्षर आहे."
     },
     {
-      "question_id": 109,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "या धड्यात कोणती गोष्ट ऐकायला सांगितली आहे?",
       "answer": "या धड्यात दिनू आणि पावसाच्या थेंबाची गोष्ट ऐकायला सांगितली आहे."
     },
     {
-      "question_id": 110,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "दिनू कुठून निघाला होता?",
       "answer": "दिनू शाळेतून घरी निघाला होता."
     },
     {
-      "question_id": 111,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "ढग कसे तयार होतात?",
       "answer": "पाण्याची वाफ होऊन ढग तयार होतात."
     },
     {
-      "question_id": 112,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "पाऊस का पडतो?",
       "answer": "ढगांना गार वारा लागल्यावर पाऊस पडतो."
     },
     {
-      "question_id": 113,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "पावसामुळे काय भरते?",
       "answer": "पावसामुळे नदी, नाले आणि तळी भरतात."
     },
     {
-      "question_id": 114,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "हा धडा मुलांना काय शिकवतो?",
       "answer": "हा धडा मुलांना अक्षरे, शब्द आणि वाचनाची तयारी शिकवतो."
     },
     {
-      "question_id": 115,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "वाचनपूर्व तयारी का आवश्यक आहे?",
       "answer": "वाचनपूर्व तयारीमुळे वाचणे आणि लिहिणे सोपे होते."

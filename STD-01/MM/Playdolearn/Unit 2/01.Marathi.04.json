@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "ऐच्छिक उपक्रम म्हणजे काय?",
       "answer": "विद्यार्थ्यांना आवडीने करता येणारे उपक्रम म्हणजे ऐच्छिक उपक्रम."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "परसातील बागकामात काय शिकवले जाते?",
       "answer": "परसातील बागकामात भाज्या आणि फळांची ओळख करून दिली जाते."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "भाज्या व फळांची ओळख कशी करून देतात?",
       "answer": "भाज्या व फळांची ओळख चित्रांद्वारे करून देतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "फळांच्या कोणत्या भागांचा संग्रह करतात?",
       "answer": "फळांच्या बियांचा संग्रह करतात."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "कुंडीतील लागवड म्हणजे काय?",
       "answer": "कुंडीत रोपे लावून वाढवणे म्हणजे कुंडीतील लागवड."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "कुंड्यांचे कोणते प्रकार ओळखायला सांगतात?",
       "answer": "कुंड्यांचे वेगवेगळे आकार ओळखायला सांगतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "कुंडीतील लागवडीत कोणती झाडे लावतात?",
       "answer": "भाज्या, फळभाज्या आणि फुलझाडे लावतात."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "फळप्रक्रिया उपक्रमात काय दाखवले जाते?",
       "answer": "फळबाजाराची चित्रे दाखवली जातात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "चित्रगप्पांमधून विद्यार्थ्यांना काय करायला सांगतात?",
       "answer": "चित्र पाहून वर्णन करायला सांगतात."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "फळांची चित्रे काढून काय करायला सांगतात?",
       "answer": "फळांची चित्रे काढून रंगवायला सांगतात."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "या उपक्रमांमुळे विद्यार्थ्यांना काय फायदा होतो?",
       "answer": "विद्यार्थ्यांना भाज्या व फळांची ओळख होते."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "कुंड्यांचे चित्रे काय करायला सांगतात?",
       "answer": "कुंड्यांचे चित्रे जमवून चिकटवायला सांगतात."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "फळांची ओळख कोणत्या खेळातून करून देतात?",
       "answer": "चित्र ओळख या खेळातून फळांची ओळख करून देतात."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हे उपक्रम कोणत्या वर्गासाठी आहेत?",
       "answer": "हे उपक्रम इयत्ता पहिलीच्या विद्यार्थ्यांसाठी आहेत."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "ऐच्छिक उपक्रम का महत्त्वाचे आहेत?",
       "answer": "हे उपक्रम विद्यार्थ्यांना प्रत्यक्ष अनुभव देतात."

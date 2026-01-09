@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What is the lesson 'Odd Man Out' about?",
       "answer": "It is about finding the different word or picture."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "What do children do in this lesson?",
       "answer": "They find the odd one out."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Is this lesson based on thinking?",
       "answer": "Yes, it is based on thinking."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Does this lesson use pictures or words?",
       "answer": "It uses pictures and words."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Is this lesson fun?",
       "answer": "Yes, it is fun."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Does this lesson improve thinking skill?",
       "answer": "Yes, it improves thinking skill."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Can children work in groups?",
       "answer": "Yes, children can work in groups."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Do children speak while answering?",
       "answer": "Yes, children speak while answering."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Is this lesson easy for children?",
       "answer": "Yes, it is easy."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "What skill is improved in this lesson?",
       "answer": "Thinking skill is improved."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Do children learn new words?",
       "answer": "Yes, children learn new words."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Is this lesson done orally?",
       "answer": "Yes, it is done orally."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Should children listen carefully?",
       "answer": "Yes, they should listen carefully."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Is teacher guidance needed?",
       "answer": "Yes, teacher guidance is needed."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson important?",
       "answer": "It helps children think and compare."

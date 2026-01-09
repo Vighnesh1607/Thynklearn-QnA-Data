@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What should we brush every day?",
       "answer": "We should brush our teeth every day."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "When should we brush our teeth?",
       "answer": "We should brush in the morning and at night."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "What do we use to brush teeth?",
       "answer": "We use a toothbrush and toothpaste."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "How should we brush our teeth?",
       "answer": "We should brush slowly and properly."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Is brushing a good habit?",
       "answer": "Yes, brushing is a good habit."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "What should we not do while brushing?",
       "answer": "We should not brush in haste."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Which direction is used while brushing?",
       "answer": "We brush from left to right."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "What movement is shown in the lesson?",
       "answer": "The brush moves round and round."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Why should we brush daily?",
       "answer": "It keeps our teeth clean."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "What part of the body is cleaned?",
       "answer": "Teeth are cleaned."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Is brushing done once a day?",
       "answer": "No, it is done twice a day."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "What happens after brushing?",
       "answer": "Our teeth feel clean."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Who should brush their teeth?",
       "answer": "Everyone should brush their teeth."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "What lesson does this teach?",
       "answer": "It teaches good habits."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson important?",
       "answer": "It teaches children to keep teeth clean."

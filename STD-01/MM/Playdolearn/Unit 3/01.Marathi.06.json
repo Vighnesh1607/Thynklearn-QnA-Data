@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "नाट्य म्हणजे काय?",
       "answer": "अभिनय, संवाद आणि कृती यांच्या साहाय्याने सादरीकरण करणे म्हणजे नाट्य."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "आवाजाची नक्कल म्हणजे काय?",
       "answer": "प्राणी, पक्षी किंवा वाहनांचे आवाज तस्सेच काढणे म्हणजे आवाजाची नक्कल."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "विद्यार्थ्यांनी कोणते आवाज काढायचे असतात?",
       "answer": "प्राणी, पक्षी आणि वाहनांचे आवाज काढायचे असतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "नाव, पत्ता व आवड सांगण्याचा उद्देश काय आहे?",
       "answer": "स्वतःची ओळख करून देण्याचा सराव होतो."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "अभिवादन म्हणजे काय?",
       "answer": "समोरच्या व्यक्तीला आदराने नमस्कार करणे म्हणजे अभिवादन."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "अभिवादनाच्या दोन पद्धती लिहा.",
       "answer": "हात जोडून नमस्कार आणि हस्तांदोलन."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "संवाद म्हणजे काय?",
       "answer": "दोन व्यक्तींमध्ये होणारी बोलणी म्हणजे संवाद."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "संवादासाठी विद्यार्थी कसे बसवतात?",
       "answer": "विद्यार्थ्यांच्या जोड्या करून बसवतात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "फुगेवाला आणि मुले यात काय होते?",
       "answer": "फुगे खरेदी-विक्रीचा संवाद होतो."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "दुकानदार-गिऱ्हाईक संवादातून काय शिकायला मिळते?",
       "answer": "बोलण्याची पद्धत आणि व्यवहार शिकायला मिळतो."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "नाट्य उपक्रमाचा फायदा काय?",
       "answer": "नाट्यामुळे आत्मविश्वास आणि बोलण्याची क्षमता वाढते."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "नाट्यात निरीक्षण का महत्त्वाचे आहे?",
       "answer": "निरीक्षणामुळे योग्य अभिनय करता येतो."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "अभिवादन केव्हा करतो?",
       "answer": "कोणाला भेटताना किंवा नम्रता दाखवताना अभिवादन करतो."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हा अध्याय कोणत्या इयत्तेसाठी आहे?",
       "answer": "हा अध्याय इयत्ता पहिलीसाठी आहे."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "नाट्य उपक्रम विद्यार्थ्यांना कसे उपयोगी पडतात?",
       "answer": "नाट्य उपक्रम संवादकौशल्य आणि सामाजिक वर्तन सुधारतात."

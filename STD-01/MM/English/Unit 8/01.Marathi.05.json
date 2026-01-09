@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "Who is dressed in this lesson?",
       "answer": "The doll named Dolly is dressed."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "What do children do in this lesson?",
       "answer": "They dress the doll."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Name one clothing item.",
       "answer": "A frock is a clothing item."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "What is worn on the head?",
       "answer": "A hat is worn on the head."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "What is worn on the feet?",
       "answer": "Shoes are worn on the feet."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "What is worn in cold weather?",
       "answer": "A sweater is worn in cold weather."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Which lesson type is this?",
       "answer": "This is an activity lesson."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "What helps children learn in this lesson?",
       "answer": "Pictures help children learn."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Why do children enjoy this lesson?",
       "answer": "They enjoy dressing the doll."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "What is worn on hands?",
       "answer": "Gloves are worn on hands."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Name one winter cloth.",
       "answer": "Sweater is a winter cloth."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Is this lesson fun?",
       "answer": "Yes, this lesson is fun."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "What do children learn from this lesson?",
       "answer": "They learn names of clothes."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Is dressing important?",
       "answer": "Yes, dressing properly is important."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson useful?",
       "answer": "It helps children know about clothes."

@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What do children like to do in this lesson?",
       "answer": "They like cooking."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Where is food cooked?",
       "answer": "Food is cooked in the kitchen."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Who helps children in cooking?",
       "answer": "Parents help children."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Name one cooking utensil.",
       "answer": "A pan is a cooking utensil."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "What should we do before cooking?",
       "answer": "We should wash our hands."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Name one food that is cooked.",
       "answer": "Rice is cooked."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "What do we use to cut vegetables?",
       "answer": "We use a knife."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Why should children be careful in the kitchen?",
       "answer": "To stay safe."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "What should we do after cooking?",
       "answer": "We should clean the kitchen."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "Which food is healthy?",
       "answer": "Vegetables are healthy."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "What do we use to stir food?",
       "answer": "We use a spoon."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "What do we use to serve food?",
       "answer": "We use a plate."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "What habit is shown in this lesson?",
       "answer": "Clean cooking habit is shown."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Is cooking fun for children?",
       "answer": "Yes, cooking is fun."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson useful?",
       "answer": "It teaches safe and clean cooking."

@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "गायन म्हणजे काय?",
       "answer": "स्वरांच्या साहाय्याने गाणे किंवा गुणगुणणे म्हणजे गायन."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "अंकगीत कशासाठी आहे?",
       "answer": "अंक ओळखण्यासाठी आणि लक्षात ठेवण्यासाठी अंकगीत आहे."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "अंकगीतामध्ये कोणते निसर्गदृश्य आहे?",
       "answer": "फुले, नदी, वारा आणि पक्षी यांचे वर्णन आहे."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "अक्षरगीतामध्ये कोणती अक्षरे येतात?",
       "answer": "अ, आ, इ, ई, उ, ऊ ही अक्षरे येतात."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "अक्षरगीतामध्ये कोणती वस्तू आहे?",
       "answer": "अक्षरगीतामध्ये फुगा दाखवलेला आहे."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "गोष्टीरूप गीत म्हणजे काय?",
       "answer": "गोष्ट गाण्याच्या स्वरूपात सांगितलेले गीत म्हणजे गोष्टीरूप गीत."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "गोष्टीरूप गीतात कोणते प्राणी आहेत?",
       "answer": "ससा आणि कासव हे प्राणी आहेत."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "ससा कसा होता?",
       "answer": "ससा चपळ होता."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "कासव कसे होते?",
       "answer": "कासव हुशार होते."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "शर्यत कोण जिंकले?",
       "answer": "शर्यत कासवाने जिंकली."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "ससा का हरला?",
       "answer": "ससा झोपल्यामुळे हरला."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "गायन करताना विद्यार्थ्यांना कसे वाटते?",
       "answer": "गायन करताना विद्यार्थ्यांना आनंद वाटतो."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "गायनाचा सराव का करावा?",
       "answer": "स्वर सुधारण्यासाठी गायनाचा सराव करावा."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हा अध्याय कोणत्या विषयात आहे?",
       "answer": "हा अध्याय Lets Play Do Learn या विषयात आहे."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "गायन विद्यार्थ्यांना कसे उपयुक्त आहे?",
       "answer": "गायनामुळे विद्यार्थ्यांची भाषा आणि आत्मविश्वास वाढतो."

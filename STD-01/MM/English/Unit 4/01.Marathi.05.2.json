@@ -69,31 +69,31 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 6,
       "question_type": "SHORT",
       "question": "Who are the characters in the story?",
       "answer": "The characters are two wise goats."
     },
     {
-      "question_id": 102,
+      "question_id": 7,
       "question_type": "SHORT",
       "question": "What problem did the goats face?",
       "answer": "They had to cross a narrow bridge."
     },
     {
-      "question_id": 103,
+      "question_id": 8,
       "question_type": "SHORT",
       "question": "How did the goats solve the problem?",
       "answer": "They helped each other."
     },
     {
-      "question_id": 104,
+      "question_id": 9,
       "question_type": "SHORT",
       "question": "Did the goats fight?",
       "answer": "No, they did not fight."
     },
     {
-      "question_id": 105,
+      "question_id": 10,
       "question_type": "SHORT",
       "question": "What lesson does the story teach?",
       "answer": "The story teaches us to be helpful and wise."

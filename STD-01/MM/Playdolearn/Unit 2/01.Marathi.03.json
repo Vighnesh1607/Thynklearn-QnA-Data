@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "कौशल्याधिष्ठित उपक्रम म्हणजे काय?",
       "answer": "ज्या उपक्रमांमुळे विद्यार्थ्यांची कौशल्ये विकसित होतात ते कौशल्याधिष्ठित उपक्रम होत."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "नैसर्गिक वस्तूंचे ठसे कशासाठी घेतात?",
       "answer": "वस्तू ओळखण्यासाठी आणि सौंदर्याकृती तयार करण्यासाठी घेतात."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "नैसर्गिक ठशांसाठी कोणत्या वस्तू वापरतात?",
       "answer": "फळभाज्यांचे काप, पाने आणि बिया वापरतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "बोटांचे ठसे कसे घेतात?",
       "answer": "बोटांना रंग किंवा शाई लावून ठसे घेतात."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "ठसे देऊन काय तयार करतात?",
       "answer": "ठसे देऊन सुंदर चित्र किंवा सौंदर्याकृती तयार करतात."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "कागदी पंखा कशापासून बनवतात?",
       "answer": "वर्तमानपत्र किंवा मासिकाच्या कागदापासून बनवतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "कागदी पंख्यासाठी घड्या का घालतात?",
       "answer": "पंखा नीट उघडण्यासाठी घड्या घालतात."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "काड्या कशासाठी लावतात?",
       "answer": "पंखा धरायला सोपा होण्यासाठी काड्या लावतात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "डिंक कशासाठी वापरतात?",
       "answer": "काड्या आणि कागद चिकटवण्यासाठी डिंक वापरतात."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "चिकटवलेला भाग कधी उघडावा?",
       "answer": "डिंक सुकल्यानंतरच उघडावा."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "या उपक्रमांमुळे कोणते कौशल्य वाढते?",
       "answer": "निरीक्षण आणि हाताची सफाई वाढते."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "कौशल्याधिष्ठित उपक्रम करताना काय काळजी घ्यावी?",
       "answer": "सावधपणे आणि शिक्षकांच्या मार्गदर्शनाखाली करावे."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "कागदी पंखा बनवताना कोणाची मदत घ्यावी?",
       "answer": "शिक्षकांची मदत घ्यावी."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हे उपक्रम विद्यार्थ्यांना कसे उपयुक्त ठरतात?",
       "answer": "विद्यार्थ्यांची कल्पकता आणि कौशल्ये वाढतात."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "कौशल्याधिष्ठित उपक्रम का महत्त्वाचे आहेत?",
       "answer": "हे उपक्रम विद्यार्थ्यांचा सर्वांगीण विकास करतात."

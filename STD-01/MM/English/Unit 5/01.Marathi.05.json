@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What are magic words?",
       "answer": "Magic words are polite words we use in daily life."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Name one magic word.",
       "answer": "Please."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "When do we say thank you?",
       "answer": "We say thank you after receiving something."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "When do we say sorry?",
       "answer": "We say sorry when we make a mistake."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Why should we use magic words?",
       "answer": "They make people happy."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Which word is used to ask politely?",
       "answer": "Please is used to ask politely."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Which word do we say when we meet someone?",
       "answer": "We say hello."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Which word do we say when we leave?",
       "answer": "We say goodbye."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Are magic words polite?",
       "answer": "Yes, magic words are polite."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "Do magic words show good manners?",
       "answer": "Yes, they show good manners."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Should children use magic words?",
       "answer": "Yes, children should use magic words."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Are magic words used at home?",
       "answer": "Yes, they are used at home."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Are magic words used in school?",
       "answer": "Yes, they are used in school."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Do magic words help us make friends?",
       "answer": "Yes, they help us make friends."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson important?",
       "answer": "It teaches children good manners."

@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What is the lesson 'Look, Listen and Say' about?",
       "answer": "It is about looking at pictures, listening and saying words."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Why do children listen to words?",
       "answer": "They listen to learn correct sounds."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Why do children say words aloud?",
       "answer": "They say words to practice speaking."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Name one word from the lesson.",
       "answer": "Bat."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Which sense helps us listen?",
       "answer": "Ears help us listen."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "What do pictures help us do?",
       "answer": "Pictures help us understand words."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "What sound is common in bat and cat?",
       "answer": "They have the same ending sound."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Why is this lesson important?",
       "answer": "It helps children learn sounds and words."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Do children read or speak in this lesson?",
       "answer": "They speak."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "What helps correct pronunciation?",
       "answer": "Listening helps correct pronunciation."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Are the words short or long?",
       "answer": "The words are short."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Why are short words used?",
       "answer": "They are easy for children to say."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "What do children do after listening?",
       "answer": "They say the words."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Is writing used in this lesson?",
       "answer": "No, only listening and speaking are used."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "What skill improves in this lesson?",
       "answer": "Speaking skill improves."

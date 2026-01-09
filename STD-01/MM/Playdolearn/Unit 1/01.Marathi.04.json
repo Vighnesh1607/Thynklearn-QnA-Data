@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिक म्हणजे काय?",
       "answer": "शरीराच्या विविध हालचालींचा सराव म्हणजे जिम्नॅस्टिक."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "पुढील कोलांटी म्हणजे काय?",
       "answer": "शरीर पुढे वळवत गोल फिरणे म्हणजे पुढील कोलांटी."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "मागील कोलांटी कशी असते?",
       "answer": "शरीर मागे वळवत गोल फिरणे म्हणजे मागील कोलांटी."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "कोलांटी करताना तोल का आवश्यक आहे?",
       "answer": "तोल ठेवल्याने पडण्याचा धोका कमी होतो."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिकमुळे शरीराला काय फायदा होतो?",
       "answer": "शरीर लवचिक आणि मजबूत होते."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "कोलांटी करताना जमीन कशी असावी?",
       "answer": "जमीन स्वच्छ आणि सपाट असावी."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिक कोणत्या उपक्रमात येते?",
       "answer": "कौशल्यात्मक उपक्रमात जिम्नॅस्टिक येते."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "कोलांटी करताना शिक्षकांची भूमिका काय आहे?",
       "answer": "शिक्षक योग्य मार्गदर्शन करतात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिक करताना कोणते कपडे घालावेत?",
       "answer": "सैल व आरामदायक कपडे घालावेत."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "कोलांटी करताना हातांचा उपयोग कशासाठी होतो?",
       "answer": "हातांचा उपयोग तोल ठेवण्यासाठी होतो."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिक केव्हा करावी?",
       "answer": "शिक्षकांच्या देखरेखीखाली करावी."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "कोलांटी करताना काय टाळावे?",
       "answer": "गोंधळ आणि धक्का देणे टाळावे."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिक का शिकावी?",
       "answer": "शरीर मजबूत आणि लवचिक करण्यासाठी."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "कोलांटी करताना सुरक्षितता कशी राखावी?",
       "answer": "योग्य जागा आणि मार्गदर्शन ठेवावे."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "जिम्नॅस्टिकचा आरोग्यावर काय परिणाम होतो?",
       "answer": "आरोग्य सुधारते आणि शरीर तंदुरुस्त राहते."

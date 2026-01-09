@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What is this lesson about?",
       "answer": "This lesson is about the rainbow and its colours."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "How many colours are there in a rainbow?",
       "answer": "There are seven colours in a rainbow."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Name the first colour of the rainbow.",
       "answer": "Red is the first colour."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Name the last colour of the rainbow.",
       "answer": "Violet is the last colour."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Which colour is the colour of grass?",
       "answer": "Green is the colour of grass."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Which colour is the colour of the sky?",
       "answer": "Blue is the colour of the sky."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Which colour comes after yellow?",
       "answer": "Green comes after yellow."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Which colour comes before violet?",
       "answer": "Indigo comes before violet."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Which colour is the colour of the sun?",
       "answer": "Yellow is the colour of the sun."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "Name one colour of the rainbow.",
       "answer": "Blue."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Do children learn the order of colours?",
       "answer": "Yes, children learn the order of colours."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Is this lesson easy for children?",
       "answer": "Yes, this lesson is easy."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Is this lesson fun to learn?",
       "answer": "Yes, it is fun to learn."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Do colours make things beautiful?",
       "answer": "Yes, colours make things beautiful."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is this lesson important?",
       "answer": "It helps children learn colours easily."

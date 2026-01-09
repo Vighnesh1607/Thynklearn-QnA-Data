@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "या गोष्टीत किती बेडूक होते?",
       "answer": "या गोष्टीत दोन बेडूक होते."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "बेडूक कुठे राहत होते?",
       "answer": "बेडूक तळ्यात राहत होते."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "बेडकांना पाण्यात काय दिसले?",
       "answer": "बेडकांना पाण्यात दोन खांब दिसले."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "बेडकांनी खांबांना काय बांधले?",
       "answer": "बेडकांनी खांबांना वेल बांधली."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "वेलीपासून काय तयार झाले?",
       "answer": "वेलीपासून छानदार झोपाळा तयार झाला."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "बेडूक झोपाळ्यावर काय करत होते?",
       "answer": "बेडूक झोपाळ्यावर बसून झोके घेत होते."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "अचानक काय घडले?",
       "answer": "अचानक झोपाळा उडू लागला."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "ते खांब प्रत्यक्षात काय होते?",
       "answer": "ते खांब प्रत्यक्षात बगळ्याचे पाय होते."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "बेडकांना सत्य कधी कळले?",
       "answer": "झोपाळा उडू लागल्यावर बेडकांना सत्य कळले."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "सत्य कळल्यावर बेडकांनी काय केले?",
       "answer": "सत्य कळल्यावर बेडकांनी पाण्यात उड्या घेतल्या."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "या गोष्टीतील बगळा कसा होता?",
       "answer": "या गोष्टीतील बगळा धोकादायक होता."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "ही गोष्ट कशावर आधारित आहे?",
       "answer": "ही गोष्ट चित्रे आणि गोष्टीवर आधारित आहे."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "बेडूक कधी शहाणे झाले?",
       "answer": "धोका ओळखल्यावर बेडूक शहाणे झाले."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "या गोष्टीतून काय शिकायला मिळते?",
       "answer": "या गोष्टीतून सावध राहण्याचा धडा मिळतो."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "या गोष्टीचा बोध काय आहे?",
       "answer": "या गोष्टीचा बोध घाई करू नये असा आहे."

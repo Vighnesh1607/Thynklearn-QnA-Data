@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "शिल्प म्हणजे काय?",
       "answer": "हाताने वस्तू तयार करण्याची कला म्हणजे शिल्प."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "कागदकामात कोणत्या कृती येतात?",
       "answer": "फाडणे, चुरगळणे आणि घडी घालणे या कृती येतात."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "कागद फाडताना मुले कशाचा आनंद घेतात?",
       "answer": "कागद फाडताना होणाऱ्या आवाजांचा आनंद घेतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "फाडलेल्या कागदापासून काय तयार करतात?",
       "answer": "फाडलेल्या कागदापासून चिकटचित्रे तयार करतात."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "चुरगळणे म्हणजे काय?",
       "answer": "कागद फाडून त्याचे छोटे गोळे करणे म्हणजे चुरगळणे."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "चुरगळलेल्या कागदापासून काय बनवतात?",
       "answer": "चुरगळलेल्या कागदापासून सोपे आकार बनवतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "घडी घालून काय तयार करतात?",
       "answer": "घडी घालून कागदी पिशवी तयार करतात."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "मातीकामासाठी माती कशी तयार करतात?",
       "answer": "माती पाण्याने मळून तयार करतात."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "मातीपासून कोणत्या वस्तू तयार करतात?",
       "answer": "मातीपासून आवडीच्या वस्तू आणि आकार तयार करतात."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "शिल्प उपक्रमाचा फायदा काय?",
       "answer": "शिल्पामुळे हातांची सफाई आणि कल्पकता वाढते."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "शिल्प करताना कसे वागावे?",
       "answer": "शिल्प करताना स्वच्छता आणि नीटपणा ठेवावा."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "कागदकाम कोणत्या घटकात येते?",
       "answer": "कागदकाम शिल्प या घटकात येते."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "मातीकाम कोणत्या घटकात येते?",
       "answer": "मातीकाम शिल्प या घटकात येते."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हे उपक्रम कोणत्या इयत्तेसाठी आहेत?",
       "answer": "हे उपक्रम इयत्ता पहिलीसाठी आहेत."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "शिल्प उपक्रम विद्यार्थ्यांना कसे उपयुक्त आहेत?",
       "answer": "शिल्प उपक्रम विद्यार्थ्यांची सर्जनशीलता वाढवतात."

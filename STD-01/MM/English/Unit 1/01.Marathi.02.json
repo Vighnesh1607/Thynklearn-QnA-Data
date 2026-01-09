@@ -129,61 +129,61 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 11,
       "question_type": "SHORT",
       "question": "What are greetings?",
       "answer": "Greetings are polite words we use when we meet someone."
     },
     {
-      "question_id": 102,
+      "question_id": 12,
       "question_type": "SHORT",
       "question": "When do we say Good morning?",
       "answer": "We say Good morning in the morning when we meet someone."
     },
     {
-      "question_id": 103,
+      "question_id": 13,
       "question_type": "SHORT",
       "question": "What greeting is used in the afternoon?",
       "answer": "Good afternoon is used in the afternoon."
     },
     {
-      "question_id": 104,
+      "question_id": 14,
       "question_type": "SHORT",
       "question": "Which greeting is used before sleeping?",
       "answer": "Good night is used before sleeping."
     },
     {
-      "question_id": 105,
+      "question_id": 15,
       "question_type": "SHORT",
       "question": "Why do we greet our teachers?",
       "answer": "We greet our teachers to show respect."
     },
     {
-      "question_id": 106,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What does Namaste show?",
       "answer": "Namaste shows respect and politeness."
     },
     {
-      "question_id": 107,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "When do we say Good evening?",
       "answer": "We say Good evening in the evening."
     },
     {
-      "question_id": 108,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Why are greetings important?",
       "answer": "Greetings help us talk politely with others."
     },
     {
-      "question_id": 109,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "What greeting do children say to elders?",
       "answer": "Children say Namaste to elders."
     },
     {
-      "question_id": 110,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "What should we reply when someone greets us?",
       "answer": "We should reply with the same greeting politely."

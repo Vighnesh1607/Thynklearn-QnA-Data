@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "या धड्याचे नाव काय आहे?",
       "answer": "या धड्याचे नाव गमती शोध आहे."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "चित्रात वाघ काय करत आहे?",
       "answer": "चित्रात वाघ उडत आहे."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "पक्षी हातात काय धरून आहेत?",
       "answer": "पक्षी हातात मोबाईल धरून आहेत."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "हरिण काय पाहत आहे?",
       "answer": "हरिण संगणक पाहत आहे."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "मासा कुठे दिसतो?",
       "answer": "मासा झाडावर दिसतो."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "गमती शोध म्हणजे काय?",
       "answer": "चित्रातील चुकीच्या गोष्टी शोधणे म्हणजे गमती शोध."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "‘इडली’ या शब्दाची सुरुवात कोणत्या अक्षराने होते?",
       "answer": "‘इडली’ या शब्दाची सुरुवात ‘इ’ अक्षराने होते."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "‘घार’ या शब्दात कोणता आवाज आहे?",
       "answer": "‘घार’ या शब्दात ‘घ’ आवाज आहे."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "‘काकी घरी आली’ हे काय आहे?",
       "answer": "‘काकी घरी आली’ हे एक वाक्य आहे."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "या धड्यात कोणती अक्षरे शिकवली आहेत?",
       "answer": "या धड्यात इ, घ, र आणि ब ही अक्षरे शिकवली आहेत."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "‘मामी रिमा आली का?’ हे कशाचे उदाहरण आहे?",
       "answer": "हे प्रश्नवाक्याचे उदाहरण आहे."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "या धड्यात मुलांना काय करायला सांगितले आहे?",
       "answer": "चित्र बघून गमती शोधायला सांगितले आहे."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "या धड्यात वाचन कसे आहे?",
       "answer": "या धड्यात सोपे शब्द आणि वाक्य वाचन आहे."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "हा धडा का महत्त्वाचा आहे?",
       "answer": "हा धडा निरीक्षण आणि वाचन कौशल्य वाढवतो."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "तुला चित्रातील कोणती गंमत आवडली?",
       "answer": "मला वाघ उडताना दाखवलेली गंमत आवडली."

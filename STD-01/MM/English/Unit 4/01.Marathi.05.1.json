@@ -69,31 +69,31 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 6,
       "question_type": "SHORT",
       "question": "Who are the characters in the story?",
       "answer": "The characters are two goats."
     },
     {
-      "question_id": 102,
+      "question_id": 7,
       "question_type": "SHORT",
       "question": "Where did the goats meet?",
       "answer": "They met on a narrow bridge."
     },
     {
-      "question_id": 103,
+      "question_id": 8,
       "question_type": "SHORT",
       "question": "Why did the goats fight?",
       "answer": "They both wanted to go first."
     },
     {
-      "question_id": 104,
+      "question_id": 9,
       "question_type": "SHORT",
       "question": "What happened at the end of the story?",
       "answer": "Both goats fell into the stream."
     },
     {
-      "question_id": 105,
+      "question_id": 10,
       "question_type": "SHORT",
       "question": "What kind of goats were they?",
       "answer": "They were silly goats."

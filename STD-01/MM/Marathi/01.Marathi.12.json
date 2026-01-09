@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "या धड्याचे नाव काय आहे?",
       "answer": "या धड्याचे नाव बाजार आहे."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "चित्रात कोणते ठिकाण दाखवले आहे?",
       "answer": "चित्रात बाजार दाखवलेला आहे."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "बाजारात कोणकोणत्या वस्तू दिसतात?",
       "answer": "बाजारात भाज्या, फळे, किराणा आणि खाण्याच्या वस्तू दिसतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "ओली भेळ कुठे मिळते?",
       "answer": "ओली भेळ भेळगाड्यावर मिळते."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "आइस्क्रीम कोण विकतो?",
       "answer": "आइस्क्रीम आइस्क्रीमवाला विकतो."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "किराणा दुकानात काय मिळते?",
       "answer": "किराणा दुकानात दैनंदिन वापराच्या वस्तू मिळतात."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "या धड्यात कोणत्या चवी ओळखायला सांगितल्या आहेत?",
       "answer": "या धड्यात आंबट, खारट, कडू आणि गोड चवी ओळखायला सांगितल्या आहेत."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "वाक्य पूर्ण करताना शेवटी काय द्यायचे?",
       "answer": "वाक्य पूर्ण करताना शेवटी पूर्णविराम द्यायचा."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "‘कळी’ हा शब्द कशाचा आहे?",
       "answer": "‘कळी’ हा ‘ळी’ ने संपणारा शब्द आहे."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "‘ताई घरी आली.’ हे काय आहे?",
       "answer": "‘ताई घरी आली.’ हे एक वाक्य आहे."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "या धड्यात कोणते अक्षर शिकवले आहे?",
       "answer": "या धड्यात ‘ओ’ अक्षर शिकवले आहे."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "वाचनपाठात राजू काय करत होता?",
       "answer": "वाचनपाठात राजू मासे पकडायचा प्रयत्न करत होता."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "पकडता पकडता राजूचे काय झाले?",
       "answer": "पकडता पकडता राजूचा तोल गेला आणि तो ओला झाला."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "या धड्यातून काय शिकायला मिळते?",
       "answer": "या धड्यातून बाजाराची ओळख, वाचन आणि लेखन शिकायला मिळते."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "तुला बाजारात काय आवडते?",
       "answer": "मला बाजारात आइस्क्रीम आणि फळे आवडतात."

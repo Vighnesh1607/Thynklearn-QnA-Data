@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What is the 'Let’s Talk' lesson about?",
       "answer": "It is about talking and listening politely."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Why should we listen when someone talks?",
       "answer": "Listening shows respect and helps us understand."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "What do we say when we want something politely?",
       "answer": "We say please."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "What should we say after getting help?",
       "answer": "We should say thank you."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "What should we say if we make a mistake?",
       "answer": "We should say sorry."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Who do children talk to in class?",
       "answer": "Children talk to friends and the teacher."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Why is polite talk important?",
       "answer": "It helps us make friends and show respect."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "What word shows good manners?",
       "answer": "The word please shows good manners."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "What do children practice in this lesson?",
       "answer": "They practice speaking and listening."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "What should we do when others are speaking?",
       "answer": "We should listen carefully."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "What is a polite way to ask a question?",
       "answer": "Using please is a polite way."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Why should we not interrupt others?",
       "answer": "It is not polite to interrupt."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "What does polite talk show?",
       "answer": "It shows respect and kindness."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Is listening part of talking?",
       "answer": "Yes, listening is part of talking."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why is talking important in class?",
       "answer": "It helps children share ideas and learn."

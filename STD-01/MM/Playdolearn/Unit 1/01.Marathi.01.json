@@ -189,91 +189,91 @@
     },
 
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "दिनचर्या म्हणजे काय?",
       "answer": "दररोज आपण करतो त्या कामांची सवय म्हणजे दिनचर्या."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "सूर्योदयापूर्वी उठणे का चांगले आहे?",
       "answer": "लवकर उठल्याने शरीर ताजेतवाने राहते."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "दात घासल्याने काय फायदा होतो?",
       "answer": "दात स्वच्छ राहतात आणि आजार टाळता येतात."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "अंघोळ केल्याने शरीर कसे राहते?",
       "answer": "अंघोळ केल्याने शरीर स्वच्छ आणि निरोगी राहते."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "केस विंचरणे का आवश्यक आहे?",
       "answer": "केस नीट राहतात आणि स्वच्छ दिसतात."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "वेळेवर जेवण का करावे?",
       "answer": "वेळेवर जेवण केल्याने शरीर निरोगी राहते."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "शाळेत जाऊन काय शिकतो?",
       "answer": "शाळेत जाऊन नवीन गोष्टी शिकतो."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "खेळण्याचा फायदा काय?",
       "answer": "खेळल्याने शरीर मजबूत होते."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "अभ्यास का करावा?",
       "answer": "अभ्यास केल्याने ज्ञान वाढते."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "घरची कामे करणे का चांगले आहे?",
       "answer": "घरची कामे केल्याने जबाबदारीची सवय लागते."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "स्वच्छ कपडे का घालावेत?",
       "answer": "स्वच्छ कपड्यांमुळे आजार टाळता येतात."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "झोप का आवश्यक आहे?",
       "answer": "झोपेमुळे शरीराला विश्रांती मिळते."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "चांगली दिनचर्या कशी असावी?",
       "answer": "वेळेवर आणि स्वच्छ सवयींनी भरलेली असावी."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "सकाळची स्वच्छता का महत्त्वाची आहे?",
       "answer": "स्वच्छतेमुळे आरोग्य चांगले राहते."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "दिनचर्येचा आरोग्यावर काय परिणाम होतो?",
       "answer": "चांगल्या दिनचर्येमुळे आरोग्य सुधारते."
